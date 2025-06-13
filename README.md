@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br><br>
+**👨‍💻 About Me<br><br>**
 I’m Keertirishi — I build things that talk, translate, and track.<br>
 From ESP32 hacks to AI-powered dashboards, I work on ideas that turn heads and solve problems.<br><br>
 
@@ -8,18 +8,18 @@ From ESP32 hacks to AI-powered dashboards, I work on ideas that turn heads and s
 🧠 Use Python, Streamlit, and APIs to automate the boring stuff<br><br>
 🌍 Build devices that understand and speak multiple languages<br><br>
 
-🧪 Current Experiments:<br><br>
+**🧪 Current Experiments:<br><br>**
 A real-time voice translator for Indian + global languages<br><br>
 Lightweight dashboards that run fast and clean<br><br>
 
-🧭 What Drives Me:<br><br>
+**🧭 What Drives Me:<br><br>**
 "I don’t just code for output. I build to impact."
 
-## 🌐 Socials:
+## **🌐 Socials:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keertirishi)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keertirishi2006@gmail.com)
 
-# 💻 Tech Stack:
+# **💻 Tech Stack:**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,13 +59,13 @@ Lightweight dashboards that run fast and clean<br><br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-# 📊 GitHub Stats:
+# **📊 GitHub Stats:**
 ![](https://github-readme-stats.vercel.app/api?username=Keertirishi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Keertirishi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keertirishi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## **🏆 GitHub Trophies**
 ![](https://github-profile-trophy.vercel.app/?username=Keertirishi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### **✍️ Random Dev Quote**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
